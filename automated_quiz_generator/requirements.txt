@@ -1,0 +1,12 @@
+streamlit
+chromadb
+sentence-transformers
+scikit-learn
+torch
+transformers
+PyPDF2
+python-docx
+rank_bm25
+redis
+pandas
+matplotlib 

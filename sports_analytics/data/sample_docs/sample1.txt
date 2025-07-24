@@ -1,0 +1,10 @@
+Match Report: Team A vs Team B
+
+Team A displayed a strong defensive performance, conceding only 2 shots on target. Goalkeeper John Doe made 5 crucial saves, maintaining a clean sheet. Team B struggled to break through the defense and failed to convert their chances.
+
+Key Stats:
+- Team A tackles: 18
+- Team A interceptions: 12
+- Team B possession: 62%
+- Team B shots: 8
+- Team A goalkeeper saves: 5 

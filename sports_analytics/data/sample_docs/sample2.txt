@@ -1,0 +1,10 @@
+Player Analysis: Jane Smith
+
+Jane Smith, midfielder for Team C, completed 92% of her passes and contributed 2 assists in the last match. Her defensive work rate was notable, with 4 interceptions and 3 tackles.
+
+Season Stats:
+- Pass completion: 89%
+- Assists: 10
+- Goals: 5
+- Tackles: 40
+- Interceptions: 28 

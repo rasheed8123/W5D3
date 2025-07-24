@@ -1,0 +1,11 @@
+streamlit
+chromadb
+sentence-transformers
+scikit-learn
+torch
+transformers
+PyPDF2
+python-docx
+pandas
+ragas
+matplotlib 
